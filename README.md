@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="auto" src="https://github.com/vansoufer/vansoufer/blob/master/banner.jpg">
 
 
  <br/> :purple_heart: &nbsp; Atualmente estou aprendendo desenvolvimento Front-end usando react.
