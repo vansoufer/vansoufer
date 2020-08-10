@@ -2,7 +2,7 @@
 
 ### Olá, seja bem vindo(a)! 👋
 
-Sou graduada em Análise e Desenvolvimento de sistemas, apaixonada por tecnologia e programação :computer:
+Tecnóloga em Análise e Desenvolvimento de sistemas, apaixonada por tecnologia e programação :computer:
 
 
 <!--
