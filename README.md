@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <img width="auto" src="https://github.com/vansoufer/vansoufer/blob/master/banner%201.jpg">
  <br/> :purple_heart: &nbsp; Atualmente estou aprendendo desenvolvimento Front-end usando react.
- <br/> :blush: &nbsp; Tenho algum conhecimento em JavaScript e PHP puro, C, HTML e CSS.
+ <br/> :blush: &nbsp; Tenho algum conhecimento em JavaScript e PHP, C, HTML e CSS.
  <br/> :computer: &nbsp; Tenho interesse em colaborar em projetos com: ReactJS, Node.js, React Native & Typescript.
  <br/> 💬  &nbsp; Sobre mim: Curto séries, livros, filmes ( sou uma grande fã do cinema) e tecnologia, estou sempre buscando aprender mais!
 
