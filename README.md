@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 -->
 
 <img width="auto" src="https://github.com/vansoufer/vansoufer/blob/master/banner%201.jpg">
- <br/> :purple_heart: &nbsp; Atualmente estou aprendendo desenvolvimento Front-end usando react.
- <br/> :blush: &nbsp; Tenho algum conhecimento em JavaScript e PHP, C, HTML e CSS.
- <br/> :computer: &nbsp; Tenho interesse em colaborar em projetos com: ReactJS, Node.js, React Native & Typescript.
- <br/> 💬  &nbsp; Sobre mim: Curto séries, livros, filmes ( sou uma grande fã do cinema) e tecnologia, estou sempre buscando aprender mais!
+
+
 
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-VanessaSouto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ttps://www.linkedin.com/in/vanessa-souto-1329b4163/)](ttps://www.linkedin.com/in/vanessa-souto-1329b4163/) 
 | 
