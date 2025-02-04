@@ -2,7 +2,8 @@
 
 ### Olá, seja bem vindo(a)! 👋
 
-Tecnóloga em Análise e Desenvolvimento de sistemas, apaixonada por tecnologia e programação :computer:
+Tecnóloga em Análise e Desenvolvimento de sistemas com especialização em Inteligência Artificial e Machine Learning :computer:
+- Experiência com React, Javascript, NodeJS, AngularJS, Styled Components, Tailwind, HTML, CSS, SQL, APIs e testes.
 
 
 <!--
@@ -19,10 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img width="auto" src="https://github.com/vansoufer/vansoufer/blob/master/banner%201.jpg">
-
-
 
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-VanessaSouto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ttps://www.linkedin.com/in/vanessa-souto-1329b4163/)](ttps://www.linkedin.com/in/vanessa-souto-1329b4163/) 
 | 
