@@ -6,9 +6,10 @@ Tecnóloga em Análise e Desenvolvimento de sistemas com especialização em Int
 - Experiência com React, Javascript, NodeJS, AngularJS, Styled Components, Tailwind, HTML, CSS, SQL, APIs e testes.
 
 <!--
-![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vansoufer&theme=dracula&show_icons=true) ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vansoufer&layout=compact&theme=dracula)
+
 
 **vansoufer/vansoufer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vansoufer&theme=dracula&show_icons=true) ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vansoufer&layout=compact&theme=dracula)
 
 Here are some ideas to get you started:
 
